@@ -1,4 +1,4 @@
-# magic_wheat_mosaics
+# UCL_Wheat_Mosaics
 Contains code from my summer internship at UCL with Professor Richard Mott
 
 ShowSNPs.sh includes downloading of appropriate files (delta files and genome level assemblies), splitting them by chromosome, and calling SNPs (requiring data reformatting).
